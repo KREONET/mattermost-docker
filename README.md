@@ -20,7 +20,7 @@ docker-compose up -d
 `docker-compose.yml`의 `volumes`와 `networks`의 이름도 적절한 것으로 지정해준다.
 
 ### 최신 버전 확인
-Mattermost의 [공식 compose.yml](https://github.com/mattermost/docker)]과 같은 버전을 사용한다.
+Mattermost의 [공식 compose.yml](https://github.com/mattermost/docker)과 같은 버전을 사용한다.
 
 본 Repo가 업데이트된 지 오래된 경우, 공식 [Github](https://github.com/mattermost)]와 [Docker Hub](https://github.com/mattermost/docker)]에서 버전을 확인하고 패치를 업데이트 해서 사용해야 한다.
 
